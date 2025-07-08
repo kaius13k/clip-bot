@@ -1,0 +1,167 @@
+# Production Configuration for AI Agent System
+# This file uses environment variables for sensitive data
+
+agent:
+  name: "ProductionAgent"
+  model: "gpt-4"
+  max_iterations: 50
+  timeout_seconds: 300
+  memory_limit: 1000
+  
+api_keys:
+  # Read from environment variables for security
+  openai: "${OPENAI_API_KEY}"
+  anthropic: "${ANTHROPIC_API_KEY}"
+  
+database:
+  url: "sqlite:///agent_memory.db"
+  
+web_interface:
+  host: "${HOST:-0.0.0.0}"
+  port: "${PORT:-8000}"
+  
+logging:
+  level: "${LOG_LEVEL:-INFO}"
+  file: "logs/agent.log"
+  
+autonomous_mode:
+  enabled: true
+  check_interval_seconds: 60
+  max_concurrent_tasks: 5
+  
+tools:
+  web_search: true
+  file_operations: true
+  code_execution: true
+  data_analysis: true
+  api_calls: true
+
+# YouTube Content Automation (Production Settings)
+youtube_automation:
+  check_interval_minutes: 2  # More frequent in production
+  max_videos_per_check: 20   # Higher throughput
+  
+  keywords:
+    - "trending tech"
+    - "viral videos" 
+    - "AI news"
+    - "tech review"
+    - "breaking news"
+    - "crypto news"
+    - "startup news"
+  
+  channels:
+    # Add your target channel IDs here
+    # Example: "UCBJycsmduvYEL83R_U4JriQ"  # MKBHD
+    # Example: "UCXuqSBlHAE6Xw-yeJA0Tunw"  # LTT
+
+# Video Clipping Service Configuration
+clipping_service:
+  service_type: "replicate"
+  
+  replicate:
+    api_key: "${REPLICATE_API_KEY}"
+    api_endpoint: "https://api.replicate.com/v1/predictions"
+    model: "video-editor/clip-video"
+  
+  runwayml:
+    api_key: "${RUNWAYML_API_KEY}"
+    api_endpoint: "https://api.runwayml.com/v1/generate"
+  
+  custom:
+    api_key: "${CUSTOM_CLIP_API_KEY}"
+    api_endpoint: "${CUSTOM_CLIP_ENDPOINT}"
+  
+  ffmpeg:
+    enabled: true
+    quality: "high"
+    format: "mp4"
+  
+  # Production clip settings
+  default_clip_duration: 45    # Shorter clips for better engagement
+  max_clip_duration: 180      # 3 minutes max
+  output_quality: "1080p"
+  
+# Clip Page Configuration
+clip_page:
+  delivery_method: "api"
+  api_endpoint: "${CLIP_PAGE_API_ENDPOINT}"
+  api_key: "${CLIP_PAGE_API_KEY}"
+  
+  # Backup delivery methods
+  local:
+    directory: "/opt/ai-agent-system/finished_clips"
+    organize_by_date: true
+  
+  webhook:
+    url: "${CLIP_WEBHOOK_URL}"
+    secret: "${CLIP_WEBHOOK_SECRET}"
+
+# Advanced Production Settings
+advanced:
+  use_ai_analysis: true
+  analyze_comments: true
+  analyze_transcripts: true
+  
+  # Quality filters for production
+  min_video_duration: 60      # 1 minute minimum
+  max_video_duration: 1800    # 30 minutes maximum
+  min_view_count: 5000        # Higher threshold for production
+  
+  # Processing limits
+  max_concurrent_clips: 5     # More concurrent processing
+  max_daily_clips: 200       # Higher daily limit
+  
+  # Storage management
+  temp_directory: "/opt/ai-agent-system/temp_clips"
+  max_storage_gb: 50          # 50GB storage limit
+  cleanup_after_days: 7      # Auto-cleanup after 7 days
+
+# Notification Settings for Production
+notifications:
+  email:
+    enabled: "${EMAIL_NOTIFICATIONS_ENABLED:-false}"
+    smtp_server: "${SMTP_SERVER:-smtp.gmail.com}"
+    email: "${NOTIFICATION_EMAIL}"
+    password: "${EMAIL_PASSWORD}"
+  
+  discord:
+    enabled: "${DISCORD_NOTIFICATIONS_ENABLED:-false}"
+    webhook_url: "${DISCORD_WEBHOOK_URL}"
+  
+  slack:
+    enabled: "${SLACK_NOTIFICATIONS_ENABLED:-false}"
+    webhook_url: "${SLACK_WEBHOOK_URL}"
+
+# Production Monitoring
+monitoring:
+  enabled: true
+  metrics_interval: 300      # 5 minutes
+  health_check_interval: 60  # 1 minute
+  
+  # Performance thresholds
+  max_memory_usage_mb: 2048
+  max_cpu_usage_percent: 80
+  max_disk_usage_percent: 85
+  
+  # Alert thresholds
+  alert_on_task_failure: true
+  alert_on_service_restart: true
+  alert_on_api_errors: true
+
+# Security Settings
+security:
+  rate_limiting:
+    enabled: true
+    requests_per_minute: 100
+    burst_limit: 200
+  
+  cors:
+    enabled: true
+    allowed_origins:
+      - "https://your-domain.com"
+      - "https://www.your-domain.com"
+  
+  api_authentication:
+    enabled: "${API_AUTH_ENABLED:-false}"
+    api_key: "${API_AUTH_KEY}"
