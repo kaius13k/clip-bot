@@ -38,8 +38,7 @@ class LLMInterface:
         # OpenAI client
         if api_keys.get('openai'):
             try:
-                openai.api_key = api_keys['openai']
-                self.openai_client = openai
+                self.openai_client = openai.OpenAI(api_key=api_keys['openai'])
                 self.logger.info("OpenAI client initialized")
             except Exception as e:
                 self.logger.warning(f"Failed to initialize OpenAI client: {e}")
@@ -79,7 +78,7 @@ class LLMInterface:
         try:
             response = await asyncio.get_event_loop().run_in_executor(
                 None,
-                lambda: self.openai_client.ChatCompletion.create(
+                lambda: self.openai_client.chat.completions.create(
                     model=model,
                     messages=[{"role": "user", "content": prompt}],
                     max_tokens=max_tokens,

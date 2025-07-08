@@ -4,3 +4,227 @@
 2025-07-08 12:44:50,688 - main - INFO - Starting web interface on 0.0.0.0:8000
 2025-07-08 13:00:11,796 - main - INFO - Starting Autonomous AI Agent System
 2025-07-08 13:00:11,796 - main - INFO - Starting web interface on 0.0.0.0:8000
+2025-07-08 13:16:48,946 - main - INFO - Starting Autonomous AI Agent System
+2025-07-08 13:16:48,946 - main - INFO - Starting web interface on 0.0.0.0:8000
+2025-07-08 13:17:35,159 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-08 13:17:35,375 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:17:35,482 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:17:35,485 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:17:35,491 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:17:35,492 - AutoAgent-1ac9454c - INFO - Starting AutoAgent 1ac9454c-a8fa-498a-a51d-ede565c5d036
+2025-07-08 13:17:35,498 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:17:40,500 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:17:45,501 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:17:49,479 - httpx - INFO - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-07-08 13:17:52,326 - AutoAgent-1ac9454c - INFO - Added task: Analyze the current workspace structure and create a comprehensive summary report of all files, directories, and project components. Include file counts, sizes, and identify the main project type. (ID: 7fdb545f-3d86-4d93-9f69-409c1b638f70)
+2025-07-08 13:17:52,327 - AutoAgent-1ac9454c - INFO - Started task: Analyze the current workspace structure and create a comprehensive summary report of all files, directories, and project components. Include file counts, sizes, and identify the main project type.
+2025-07-08 13:17:52,330 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:17:52,330 - AutoAgent-1ac9454c - INFO - Executing task: Analyze the current workspace structure and create a comprehensive summary report of all files, directories, and project components. Include file counts, sizes, and identify the main project type.
+2025-07-08 13:17:52,330 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,331 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,541 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,542 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,542 - TaskPlanner - ERROR - Failed to parse plan JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:17:52,542 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:17:52,548 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:17:52,548 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,549 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,553 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:17:52,559 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:17:52,560 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,560 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,824 - AutoAgent-1ac9454c - INFO - Completed task: Analyze the current workspace structure and create a comprehensive summary report of all files, directories, and project components. Include file counts, sizes, and identify the main project type.
+2025-07-08 13:17:57,332 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:02,333 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:07,335 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:12,337 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:17,339 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:22,341 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:27,342 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:32,345 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:37,346 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:42,348 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:47,349 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:52,349 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:57,352 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:02,352 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:07,353 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:12,355 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:17,356 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:22,358 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:25,115 - AutoAgent-1ac9454c - INFO - Stopping AutoAgent 1ac9454c-a8fa-498a-a51d-ede565c5d036
+2025-07-08 13:19:30,759 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:19:30,765 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:19:30,767 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:19:30,773 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:19:30,776 - AutoAgent-610c2a0c - INFO - Starting AutoAgent 610c2a0c-9c8b-41b9-b9b9-45338eff3ff5
+2025-07-08 13:19:30,777 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:35,778 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:40,500 - AutoAgent-610c2a0c - INFO - Added task: Create a detailed inventory of the workspace directory, listing all Python files, configuration files, and documentation files. Analyze the project structure and determine what type of application this is. (ID: 1652d12a-ec0b-495a-a998-187545cd3fcf)
+2025-07-08 13:19:40,779 - AutoAgent-610c2a0c - INFO - Started task: Create a detailed inventory of the workspace directory, listing all Python files, configuration files, and documentation files. Analyze the project structure and determine what type of application this is.
+2025-07-08 13:19:40,781 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:40,781 - AutoAgent-610c2a0c - INFO - Executing task: Create a detailed inventory of the workspace directory, listing all Python files, configuration files, and documentation files. Analyze the project structure and determine what type of application this is.
+2025-07-08 13:19:40,781 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:40,781 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:40,996 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:40,996 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:40,996 - TaskPlanner - ERROR - Failed to parse plan JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:19:40,996 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:19:41,002 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:19:41,002 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:41,002 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:41,008 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:19:41,015 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:19:41,015 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:41,016 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:41,244 - AutoAgent-610c2a0c - INFO - Completed task: Create a detailed inventory of the workspace directory, listing all Python files, configuration files, and documentation files. Analyze the project structure and determine what type of application this is.
+2025-07-08 13:19:45,783 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:50,785 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:55,787 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:20:00,789 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:20:10,369 - main - INFO - Starting Autonomous AI Agent System
+2025-07-08 13:20:10,369 - main - INFO - Starting web interface on 0.0.0.0:8000
