@@ -1,0 +1,1142 @@
+2025-07-08 12:38:55,404 - main - INFO - Starting Autonomous AI Agent System
+2025-07-08 12:38:55,404 - main - INFO - Starting web interface on 0.0.0.0:8000
+2025-07-08 12:44:50,688 - main - INFO - Starting Autonomous AI Agent System
+2025-07-08 12:44:50,688 - main - INFO - Starting web interface on 0.0.0.0:8000
+2025-07-08 13:00:11,796 - main - INFO - Starting Autonomous AI Agent System
+2025-07-08 13:00:11,796 - main - INFO - Starting web interface on 0.0.0.0:8000
+2025-07-08 13:16:48,946 - main - INFO - Starting Autonomous AI Agent System
+2025-07-08 13:16:48,946 - main - INFO - Starting web interface on 0.0.0.0:8000
+2025-07-08 13:17:35,159 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-08 13:17:35,375 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:17:35,482 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:17:35,485 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:17:35,491 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:17:35,492 - AutoAgent-1ac9454c - INFO - Starting AutoAgent 1ac9454c-a8fa-498a-a51d-ede565c5d036
+2025-07-08 13:17:35,498 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:17:40,500 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:17:45,501 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:17:49,479 - httpx - INFO - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-07-08 13:17:52,326 - AutoAgent-1ac9454c - INFO - Added task: Analyze the current workspace structure and create a comprehensive summary report of all files, directories, and project components. Include file counts, sizes, and identify the main project type. (ID: 7fdb545f-3d86-4d93-9f69-409c1b638f70)
+2025-07-08 13:17:52,327 - AutoAgent-1ac9454c - INFO - Started task: Analyze the current workspace structure and create a comprehensive summary report of all files, directories, and project components. Include file counts, sizes, and identify the main project type.
+2025-07-08 13:17:52,330 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:17:52,330 - AutoAgent-1ac9454c - INFO - Executing task: Analyze the current workspace structure and create a comprehensive summary report of all files, directories, and project components. Include file counts, sizes, and identify the main project type.
+2025-07-08 13:17:52,330 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,331 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,541 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,542 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,542 - TaskPlanner - ERROR - Failed to parse plan JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:17:52,542 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:17:52,548 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:17:52,548 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,549 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,553 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:17:52,559 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:17:52,560 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,560 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:17:52,824 - AutoAgent-1ac9454c - INFO - Completed task: Analyze the current workspace structure and create a comprehensive summary report of all files, directories, and project components. Include file counts, sizes, and identify the main project type.
+2025-07-08 13:17:57,332 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:02,333 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:07,335 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:12,337 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:17,339 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:22,341 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:27,342 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:32,345 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:37,346 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:42,348 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:47,349 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:52,349 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:18:57,352 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:02,352 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:07,353 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:12,355 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:17,356 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:22,358 - AutoAgent-1ac9454c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:25,115 - AutoAgent-1ac9454c - INFO - Stopping AutoAgent 1ac9454c-a8fa-498a-a51d-ede565c5d036
+2025-07-08 13:19:30,759 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:19:30,765 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:19:30,767 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:19:30,773 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:19:30,776 - AutoAgent-610c2a0c - INFO - Starting AutoAgent 610c2a0c-9c8b-41b9-b9b9-45338eff3ff5
+2025-07-08 13:19:30,777 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:35,778 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:40,500 - AutoAgent-610c2a0c - INFO - Added task: Create a detailed inventory of the workspace directory, listing all Python files, configuration files, and documentation files. Analyze the project structure and determine what type of application this is. (ID: 1652d12a-ec0b-495a-a998-187545cd3fcf)
+2025-07-08 13:19:40,779 - AutoAgent-610c2a0c - INFO - Started task: Create a detailed inventory of the workspace directory, listing all Python files, configuration files, and documentation files. Analyze the project structure and determine what type of application this is.
+2025-07-08 13:19:40,781 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:40,781 - AutoAgent-610c2a0c - INFO - Executing task: Create a detailed inventory of the workspace directory, listing all Python files, configuration files, and documentation files. Analyze the project structure and determine what type of application this is.
+2025-07-08 13:19:40,781 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:40,781 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:40,996 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:40,996 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:40,996 - TaskPlanner - ERROR - Failed to parse plan JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:19:40,996 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:19:41,002 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:19:41,002 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:41,002 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:41,008 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:19:41,015 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:19:41,015 - LLMInterface - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:41,016 - LLMInterface - ERROR - LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-07-08 13:19:41,244 - AutoAgent-610c2a0c - INFO - Completed task: Create a detailed inventory of the workspace directory, listing all Python files, configuration files, and documentation files. Analyze the project structure and determine what type of application this is.
+2025-07-08 13:19:45,783 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:50,785 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:19:55,787 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:20:00,789 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:20:10,369 - main - INFO - Starting Autonomous AI Agent System
+2025-07-08 13:20:10,369 - main - INFO - Starting web interface on 0.0.0.0:8000
+2025-07-08 13:20:43,907 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-08 13:20:44,041 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:20:44,048 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:20:44,056 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:20:44,063 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:20:44,063 - AutoAgent-58980ee2 - INFO - Starting AutoAgent 58980ee2-ae49-4ce9-81ce-b33722953b23
+2025-07-08 13:20:44,066 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:20:49,068 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:20:54,070 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:20:59,072 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:04,074 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:09,077 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:14,078 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:19,080 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:24,082 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:29,083 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:34,084 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:39,085 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:44,087 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:49,089 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:54,091 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:59,094 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:04,096 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:09,097 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:14,099 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:19,102 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:24,104 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:29,107 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:34,110 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:39,113 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:44,114 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:49,116 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:54,118 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:59,119 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:04,121 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:09,123 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:14,124 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:19,127 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:24,275 - AutoAgent-58980ee2 - INFO - Added task: Set up YouTube content automation: Monitor DDG for trending YouTube videos and shorts, automatically create clips, and prepare them for delivery to clip page. Start with tech and AI-related content. (ID: cd939477-f857-4afa-820e-51a02f4a7889)
+2025-07-08 13:23:24,276 - AutoAgent-58980ee2 - INFO - Started task: Set up YouTube content automation: Monitor DDG for trending YouTube videos and shorts, automatically create clips, and prepare them for delivery to clip page. Start with tech and AI-related content.
+2025-07-08 13:23:24,277 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:24,277 - AutoAgent-58980ee2 - INFO - Executing task: Set up YouTube content automation: Monitor DDG for trending YouTube videos and shorts, automatically create clips, and prepare them for delivery to clip page. Start with tech and AI-related content.
+2025-07-08 13:23:24,667 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:23:24,667 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:24,668 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:24,952 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:23:24,953 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:24,953 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:24,953 - TaskPlanner - ERROR - Failed to parse plan JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:23:24,959 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:23:24,965 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:23:25,019 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:23:25,020 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:25,020 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:25,032 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:23:25,038 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:23:25,161 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:23:25,162 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:25,162 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:25,393 - AutoAgent-58980ee2 - INFO - Completed task: Set up YouTube content automation: Monitor DDG for trending YouTube videos and shorts, automatically create clips, and prepare them for delivery to clip page. Start with tech and AI-related content.
+2025-07-08 13:23:29,280 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:34,281 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:39,283 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:44,284 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:49,286 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:54,287 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:59,293 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:04,295 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:09,296 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:14,298 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:19,300 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:24,300 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:29,303 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:34,304 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:39,305 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:44,307 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:49,308 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:54,311 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:59,312 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:04,314 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:09,317 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:14,318 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:31,652 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:36,654 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:41,656 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:46,658 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:51,660 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:56,662 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:01,664 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:06,666 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:11,668 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:16,671 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:21,672 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:26,673 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:31,674 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:36,675 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:41,677 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:46,679 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:51,682 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:26:56,684 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:01,685 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:06,699 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:11,702 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:16,703 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:21,705 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:26,708 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:31,710 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:36,712 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:41,714 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:46,716 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:51,717 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:27:56,718 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:01,720 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:06,721 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:11,723 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:16,724 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:21,725 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:26,726 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:31,728 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:36,731 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:41,732 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:46,734 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:51,735 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:28:56,736 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:01,738 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:06,740 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:11,740 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:16,742 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:21,744 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:26,744 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:31,746 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:36,747 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:41,749 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:46,751 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:51,753 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:29:56,755 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:01,757 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:06,758 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:11,760 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:16,762 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:21,764 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:26,765 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:31,767 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:36,769 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:41,772 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:46,772 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:51,774 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:30:56,775 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:01,782 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:06,783 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:11,785 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:16,788 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:21,789 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:26,791 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:31,793 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:36,794 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:41,796 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:46,796 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:51,798 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:31:56,800 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:01,801 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:06,803 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:11,806 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:16,806 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:21,807 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:26,809 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:31,810 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:36,813 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:41,815 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:46,816 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:51,818 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:32:56,820 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:33:00,246 - AutoAgent-58980ee2 - INFO - Added task: Test YouTube monitoring - search for trending tech videos (ID: 679c2735-6538-4774-8502-6a4c94dfdf28)
+2025-07-08 13:33:01,820 - AutoAgent-58980ee2 - INFO - Started task: Test YouTube monitoring - search for trending tech videos
+2025-07-08 13:33:01,822 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:33:01,822 - AutoAgent-58980ee2 - INFO - Executing task: Test YouTube monitoring - search for trending tech videos
+2025-07-08 13:33:01,928 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:33:01,928 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:33:01,928 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:33:02,203 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:33:02,203 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:33:02,203 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:33:02,204 - TaskPlanner - ERROR - Failed to parse plan JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:33:02,209 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:33:02,215 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:33:02,330 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:33:02,330 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:33:02,330 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:33:02,343 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:33:02,348 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:33:02,434 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:33:02,435 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:33:02,435 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:33:02,696 - AutoAgent-58980ee2 - INFO - Completed task: Test YouTube monitoring - search for trending tech videos
+2025-07-08 13:33:06,824 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:33:11,827 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:33:16,828 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:33:21,829 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:33:26,831 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:33:31,833 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:33:36,835 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:33:41,837 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:33:59,686 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:04,688 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:09,690 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:14,693 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:19,695 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:24,696 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:29,697 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:34,699 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:39,700 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:44,702 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:49,704 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:54,706 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:34:59,707 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:04,709 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:09,711 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:14,713 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:19,716 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:24,717 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:29,718 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:34,726 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:39,729 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:44,730 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:49,731 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:54,733 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:35:59,736 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:04,737 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:09,740 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:14,741 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:19,742 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:24,744 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:29,753 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:34,755 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:39,757 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:44,758 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:49,759 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:54,761 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:36:59,763 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:04,765 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:09,768 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:14,770 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:19,771 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:24,772 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:29,773 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:34,775 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:39,777 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:44,779 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:49,780 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:54,781 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:37:59,783 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:04,785 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:09,786 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:14,789 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:19,789 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:24,790 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:29,793 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:34,793 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:39,795 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:44,797 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:49,797 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:54,799 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:38:59,800 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:04,802 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:09,803 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:14,805 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:19,807 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:24,809 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:29,811 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:34,813 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:39,814 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:44,816 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:49,818 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:54,819 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:39:59,821 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:04,824 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:09,825 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:14,827 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:19,829 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:24,831 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:29,833 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:34,835 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:39,838 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:44,839 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:49,841 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:54,843 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:40:59,845 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:04,847 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:09,849 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:14,850 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:19,853 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:24,856 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:29,857 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:34,859 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:39,861 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:44,862 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:49,864 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:54,866 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:41:59,867 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:04,870 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:09,871 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:14,872 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:19,875 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:24,875 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:29,877 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:34,879 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:39,880 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:44,882 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:49,885 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:54,886 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:42:59,887 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:04,890 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:09,890 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:14,893 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:19,895 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:24,897 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:29,904 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:34,906 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:39,909 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:44,910 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:49,913 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:54,914 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:43:59,916 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:04,917 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:09,919 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:14,920 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:19,923 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:24,924 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:29,926 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:34,928 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:39,929 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:44,931 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:49,934 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:54,936 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:44:59,937 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:04,939 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:09,940 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:14,943 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:19,944 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:24,946 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:29,947 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:34,950 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:39,952 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:44,953 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:49,955 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:54,957 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:45:59,958 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:04,960 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:09,962 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:14,964 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:19,967 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:24,968 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:29,970 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:34,971 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:39,973 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:44,975 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:49,977 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:54,979 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:46:59,981 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:04,983 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:09,985 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:14,987 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:19,989 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:24,992 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:29,992 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:34,994 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:39,997 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:45,000 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:50,002 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:47:55,003 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:00,005 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:05,006 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:10,008 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:15,009 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:20,010 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:25,013 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:30,014 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:35,015 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:40,017 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:45,018 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:50,020 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:48:55,022 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:00,023 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:05,024 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:10,026 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:15,028 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:20,030 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:25,032 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:30,033 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:35,035 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:40,036 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:45,037 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:50,039 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:49:55,040 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:00,042 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:05,043 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:10,045 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:15,047 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:20,049 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:25,056 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:30,057 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:35,059 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:40,061 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:45,062 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:50,064 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:50:55,066 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:00,068 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:05,070 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:10,072 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:15,074 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:20,075 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:25,075 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:30,078 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:35,080 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:40,082 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:45,084 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:50,084 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:51:55,086 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:00,087 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:05,089 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:10,092 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:15,093 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:20,095 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:25,097 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:30,098 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:35,102 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:40,103 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:45,105 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:50,106 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:52:55,107 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:00,109 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:05,111 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:10,112 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:15,114 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:20,116 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:25,117 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:30,120 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:35,121 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:40,123 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:45,125 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:50,125 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:53:55,127 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:00,128 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:05,129 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:10,132 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:15,133 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:20,135 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:25,136 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:30,138 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:35,140 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:40,142 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:45,144 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:50,146 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:54:55,147 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:00,149 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:05,150 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:10,152 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:15,154 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:20,156 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:25,157 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:30,159 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:35,159 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:40,161 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:45,163 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:50,164 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:55:55,167 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:00,168 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:05,170 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:10,170 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:15,172 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:20,173 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:25,174 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:30,176 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:35,178 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:40,181 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:45,182 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:50,183 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:56:55,185 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:00,187 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:05,187 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:10,189 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:15,191 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:20,198 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:25,200 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:30,203 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:35,206 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:40,208 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:45,211 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:50,212 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:57:55,215 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:00,216 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:05,218 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:10,219 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:15,221 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:20,222 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:25,224 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:30,225 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:35,226 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:40,228 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:45,229 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:50,229 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:58:55,231 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:00,232 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:05,233 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:10,234 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:15,236 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:20,237 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:25,239 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:30,242 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:35,244 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:40,247 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:45,249 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:50,249 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:59:55,252 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:00,254 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:05,255 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:10,256 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:15,258 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:20,260 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:25,261 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:30,262 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:35,265 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:40,267 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:45,268 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:50,270 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:00:55,271 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:00,273 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:05,274 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:10,277 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:15,280 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:20,282 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:25,284 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:30,286 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:35,288 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:40,289 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:45,292 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:50,293 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:01:55,296 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:00,298 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:05,301 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:10,302 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:15,303 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:20,305 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:25,306 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:30,308 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:35,311 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:40,312 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:45,314 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:50,317 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:02:55,318 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:00,320 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:05,321 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:10,322 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:15,325 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:20,327 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:25,329 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:30,330 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:35,332 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:40,333 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:45,335 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:50,338 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:03:55,339 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:00,341 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:05,343 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:10,344 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:15,353 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:20,355 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:25,357 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:30,358 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:35,361 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:40,362 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:45,365 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:50,366 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:04:55,368 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:00,370 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:05,372 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:10,373 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:15,375 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:20,377 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:25,379 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:30,380 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:35,382 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:40,384 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:45,386 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:50,388 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:05:55,390 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:00,392 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:05,395 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:10,396 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:15,397 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:20,399 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:25,400 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:30,402 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:35,404 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:40,406 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:45,407 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:50,409 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:06:55,411 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:00,412 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:05,414 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:10,416 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:15,418 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:20,419 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:25,420 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:30,422 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:35,424 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:40,425 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:45,427 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:50,429 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:07:55,431 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:00,432 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:05,434 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:10,436 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:15,437 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:20,439 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:25,441 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:30,442 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:35,444 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:40,446 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:45,448 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:50,450 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:08:55,452 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:00,453 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:05,456 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:10,457 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:15,458 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:20,460 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:25,462 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:30,464 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:35,466 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:40,468 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:45,470 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:50,471 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:09:55,473 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:00,475 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:05,477 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:10,479 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:15,480 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:20,482 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:25,483 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:30,485 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:35,488 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:40,489 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:45,491 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:50,493 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:10:55,495 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:00,498 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:05,500 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:10,507 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:15,508 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:20,510 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:25,513 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:30,514 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:35,515 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:40,517 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:45,519 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:50,521 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:11:55,524 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:00,525 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:05,527 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:10,529 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:15,531 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:20,532 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:25,534 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:30,535 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:35,537 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:40,539 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:45,541 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:50,543 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:12:55,545 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:00,546 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:05,548 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:10,550 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:15,551 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:20,553 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:25,556 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:30,558 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:35,560 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:40,563 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:45,565 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:50,566 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:13:55,569 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:00,569 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:05,571 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:10,573 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:15,574 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:20,577 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:25,579 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:30,581 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:35,582 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:40,583 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:45,585 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:50,586 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:14:55,588 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:00,589 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:05,592 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:10,593 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:15,594 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:20,596 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:25,598 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:30,600 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:35,602 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:40,605 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:45,606 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:50,608 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:15:55,610 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:00,613 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:05,615 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:10,616 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:15,617 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:20,619 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:25,621 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:30,622 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:35,624 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:40,626 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:45,628 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:50,629 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:16:55,631 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:00,633 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:05,634 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:10,636 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:15,637 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:20,639 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:25,640 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:30,641 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:35,643 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:40,645 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:45,647 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:50,649 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:17:55,652 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:00,654 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:05,662 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:10,664 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:15,665 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:20,667 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:25,668 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:30,670 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:35,672 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:40,674 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:45,676 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:50,677 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:18:55,679 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:00,681 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:05,683 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:10,685 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:15,688 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:20,689 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:25,691 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:30,694 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:35,695 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:40,695 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:45,697 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:50,699 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:19:55,701 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:00,703 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:05,705 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:10,706 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:15,708 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:20,710 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:25,712 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:30,714 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:35,716 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:40,718 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:45,720 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:50,721 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:20:55,723 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:00,725 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:05,726 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:10,728 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:15,730 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:20,731 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:25,733 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:30,735 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:35,737 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:40,739 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:45,741 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:50,742 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:21:55,742 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:00,744 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:05,745 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:10,747 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:15,749 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:20,751 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:25,753 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:30,755 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:35,756 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:40,759 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:45,762 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:50,763 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:22:55,765 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:00,766 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:05,768 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:10,770 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:15,772 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:20,774 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:25,776 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:30,779 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:35,780 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:40,782 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:45,783 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:50,785 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:23:55,786 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:00,789 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:05,791 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:10,793 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:15,795 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:20,797 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:25,798 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:30,800 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:35,801 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:40,802 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:45,804 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:50,806 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:24:55,808 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:00,816 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:05,817 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:10,819 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:15,820 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:20,822 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:25,825 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:30,827 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:35,829 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:40,831 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:45,833 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:50,833 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:25:55,836 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:00,839 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:05,840 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:10,842 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:15,844 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:20,847 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:25,849 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:30,850 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:35,851 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:40,853 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:45,855 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:50,858 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:26:55,859 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:00,860 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:05,862 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:10,864 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:15,866 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:20,868 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:25,870 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:30,872 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:35,874 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:40,876 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:45,878 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:50,880 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:27:55,882 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:00,883 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:05,883 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:10,886 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:15,888 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:20,889 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:25,891 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:30,892 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:35,894 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:40,896 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:45,897 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:50,900 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:28:55,901 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:00,903 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:05,906 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:10,907 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:15,909 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:20,911 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:25,911 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:30,913 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:35,915 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:40,916 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:45,918 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:50,920 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:29:55,921 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:00,923 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:05,924 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:10,926 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:15,927 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:20,929 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:25,931 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:30,933 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:35,935 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:40,937 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:45,939 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:50,941 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:30:55,943 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:00,945 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:05,947 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:10,948 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:15,950 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:20,953 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:25,954 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:30,955 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:35,957 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:40,958 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:45,961 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:50,962 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:31:55,968 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:00,970 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:05,972 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:10,973 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:15,974 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:20,976 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:25,977 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:30,979 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:35,981 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:40,983 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:45,985 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:50,987 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:32:55,988 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:33:00,990 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 14:33:05,992 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
