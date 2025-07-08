@@ -1,0 +1,114 @@
+# YouTube Content Automation Configuration
+
+youtube_automation:
+  # How often to check for new content (in minutes)
+  check_interval_minutes: 5
+  
+  # Maximum videos to process per check
+  max_videos_per_check: 10
+  
+  # Keywords to monitor for (leave empty to monitor all)
+  keywords:
+    - "AI news"
+    - "tech review"
+    - "breaking news"
+    - "trending"
+  
+  # Specific channels to monitor (YouTube channel IDs)
+  channels:
+    # Add your favorite channels here
+    # Example: "UCBJycsmduvYEL83R_U4JriQ" (Marques Brownlee)
+    # Example: "UCXuqSBlHAE6Xw-yeJA0Tunw" (Linus Tech Tips)
+
+# Video Clipping Service Configuration
+clipping_service:
+  # Service to use for clipping
+  service_type: "replicate"  # Options: replicate, runwayml, custom, ffmpeg
+  
+  # API Configuration (choose one)
+  replicate:
+    api_key: "your-replicate-api-key"
+    api_endpoint: "https://api.replicate.com/v1/predictions"
+    model: "video-editor/clip-video"
+  
+  runwayml:
+    api_key: "your-runwayml-api-key"
+    api_endpoint: "https://api.runwayml.com/v1/generate"
+  
+  custom:
+    api_key: "your-custom-service-key"
+    api_endpoint: "https://your-custom-service.com/api/clip"
+  
+  ffmpeg:
+    # Local FFmpeg processing
+    enabled: true
+    quality: "high"  # low, medium, high
+    format: "mp4"
+  
+  # Default clip settings
+  default_clip_duration: 60  # seconds
+  max_clip_duration: 300     # 5 minutes
+  output_quality: "1080p"
+  
+# Your Clip Page Configuration
+clip_page:
+  # Where to deliver finished clips
+  delivery_method: "api"  # Options: api, ftp, local, webhook
+  
+  # API delivery
+  api_endpoint: "https://your-clip-page.com/api/upload"
+  api_key: "your-clip-page-api-key"
+  
+  # FTP delivery
+  ftp:
+    host: "your-ftp-server.com"
+    username: "your-username"
+    password: "your-password"
+    directory: "/clips"
+  
+  # Local delivery
+  local:
+    directory: "./finished_clips"
+    organize_by_date: true
+  
+  # Webhook notification
+  webhook:
+    url: "https://your-clip-page.com/webhook/new-clip"
+    secret: "your-webhook-secret"
+
+# Advanced Settings
+advanced:
+  # Video analysis for better clipping
+  use_ai_analysis: true
+  analyze_comments: true
+  analyze_transcripts: true
+  
+  # Quality filters
+  min_video_duration: 30     # seconds
+  max_video_duration: 3600   # 1 hour
+  min_view_count: 1000
+  
+  # Processing limits
+  max_concurrent_clips: 3
+  max_daily_clips: 50
+  
+  # Storage
+  temp_directory: "./temp_clips"
+  max_storage_gb: 10
+
+# Notification Settings
+notifications:
+  # Get notified when clips are ready
+  email:
+    enabled: false
+    smtp_server: "smtp.gmail.com"
+    email: "your-email@gmail.com"
+    password: "your-app-password"
+  
+  discord:
+    enabled: false
+    webhook_url: "your-discord-webhook-url"
+  
+  slack:
+    enabled: false
+    webhook_url: "your-slack-webhook-url"

@@ -228,3 +228,84 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 2025-07-08 13:20:00,789 - AutoAgent-610c2a0c - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
 2025-07-08 13:20:10,369 - main - INFO - Starting Autonomous AI Agent System
 2025-07-08 13:20:10,369 - main - INFO - Starting web interface on 0.0.0.0:8000
+2025-07-08 13:20:43,907 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-08 13:20:44,041 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:20:44,048 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:20:44,056 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:20:44,063 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:20:44,063 - AutoAgent-58980ee2 - INFO - Starting AutoAgent 58980ee2-ae49-4ce9-81ce-b33722953b23
+2025-07-08 13:20:44,066 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:20:49,068 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:20:54,070 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:20:59,072 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:04,074 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:09,077 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:14,078 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:19,080 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:24,082 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:29,083 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:34,084 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:39,085 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:44,087 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:49,089 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:54,091 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:21:59,094 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:04,096 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:09,097 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:14,099 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:19,102 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:24,104 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:29,107 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:34,110 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:39,113 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:44,114 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:49,116 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:54,118 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:22:59,119 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:04,121 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:09,123 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:14,124 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:19,127 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:24,275 - AutoAgent-58980ee2 - INFO - Added task: Set up YouTube content automation: Monitor DDG for trending YouTube videos and shorts, automatically create clips, and prepare them for delivery to clip page. Start with tech and AI-related content. (ID: cd939477-f857-4afa-820e-51a02f4a7889)
+2025-07-08 13:23:24,276 - AutoAgent-58980ee2 - INFO - Started task: Set up YouTube content automation: Monitor DDG for trending YouTube videos and shorts, automatically create clips, and prepare them for delivery to clip page. Start with tech and AI-related content.
+2025-07-08 13:23:24,277 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:24,277 - AutoAgent-58980ee2 - INFO - Executing task: Set up YouTube content automation: Monitor DDG for trending YouTube videos and shorts, automatically create clips, and prepare them for delivery to clip page. Start with tech and AI-related content.
+2025-07-08 13:23:24,667 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:23:24,667 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:24,668 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:24,952 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:23:24,953 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:24,953 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:24,953 - TaskPlanner - ERROR - Failed to parse plan JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:23:24,959 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:23:24,965 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:23:25,019 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:23:25,020 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:25,020 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:25,032 - LLMInterface - INFO - OpenAI client initialized
+2025-07-08 13:23:25,038 - LLMInterface - INFO - Anthropic client initialized
+2025-07-08 13:23:25,161 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-08 13:23:25,162 - LLMInterface - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:25,162 - LLMInterface - ERROR - LLM generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-ope*******-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-08 13:23:25,393 - AutoAgent-58980ee2 - INFO - Completed task: Set up YouTube content automation: Monitor DDG for trending YouTube videos and shorts, automatically create clips, and prepare them for delivery to clip page. Start with tech and AI-related content.
+2025-07-08 13:23:29,280 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:34,281 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:39,283 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:44,284 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:49,286 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:54,287 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:23:59,293 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:04,295 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:09,296 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:14,298 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:19,300 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:24,300 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:29,303 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:34,304 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:39,305 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:44,307 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:49,308 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:54,311 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:24:59,312 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:04,314 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
+2025-07-08 13:25:09,317 - AutoAgent-58980ee2 - ERROR - Error in main loop: Invalid format specifier ' "...", "priority": 1-10' for object of type 'str'
