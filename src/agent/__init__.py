@@ -3,7 +3,8 @@ AI Agent Package
 Core components for autonomous AI agent
 """
 
-from .core import AutoAgent, Task, TaskStatus
+from .types import Task, TaskStatus
+from .core import AutoAgent
 from .memory import MemoryManager
 from .planner import TaskPlanner
 from .tools import ToolManager

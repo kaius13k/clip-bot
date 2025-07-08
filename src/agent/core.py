@@ -13,39 +13,11 @@ from dataclasses import dataclass, asdict
 from typing import List, Dict, Any, Optional, Callable
 from enum import Enum
 
+from .types import Task, TaskStatus
 from .memory import MemoryManager
 from .planner import TaskPlanner
 from .tools import ToolManager
 from .llm import LLMInterface
-
-
-class TaskStatus(Enum):
-    PENDING = "pending"
-    IN_PROGRESS = "in_progress"
-    COMPLETED = "completed"
-    FAILED = "failed"
-    CANCELLED = "cancelled"
-
-
-@dataclass
-class Task:
-    id: str
-    description: str
-    priority: int = 1
-    status: TaskStatus = TaskStatus.PENDING
-    created_at: datetime = None
-    started_at: datetime = None
-    completed_at: datetime = None
-    result: Any = None
-    error: str = None
-    parent_task_id: str = None
-    subtasks: List[str] = None
-    
-    def __post_init__(self):
-        if self.created_at is None:
-            self.created_at = datetime.now()
-        if self.subtasks is None:
-            self.subtasks = []
 
 
 class AutoAgent:

@@ -13,7 +13,7 @@ import chromadb
 from chromadb.config import Settings
 import logging
 
-from .core import Task, TaskStatus
+from .types import Task, TaskStatus
 
 
 class MemoryManager:
@@ -312,7 +312,6 @@ class MemoryManager:
     
     def _row_to_task(self, row: sqlite3.Row) -> Task:
         """Convert database row to Task object"""
-        from .core import Task, TaskStatus  # Import here to avoid circular import
         
         return Task(
             id=row['id'],
