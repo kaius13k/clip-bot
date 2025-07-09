@@ -1,0 +1,171 @@
+# AI Agent System - Git Ignore File
+
+# Environment and Secrets
+.env
+*.env
+.env.local
+.env.production
+config_secrets.yaml
+
+# API Keys and Sensitive Data
+*api_key*
+*secret*
+*password*
+*token*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs and Databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+logs/
+agent_memory.db
+chroma_db/
+
+# Video Processing
+downloads/
+clips/
+temp_clips/
+finished_clips/
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+
+# System Files
+.coverage
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Backup Files
+*.bak
+*.backup
+backup-*.tar.gz
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# OS Generated Files
+.DS_Store?
+ehthumbs.db
+Icon?
+
+# ChromaDB
+chroma.sqlite3
+chroma.sqlite3-shm
+chroma.sqlite3-wal
+
+# Production Deployment
+/opt/ai-agent-system/
+systemd-service-files/
+
+# Local Development
+local_config.yaml
+test_config.yaml
+debug.log
+
+# Package Manager
+node_modules/
+package-lock.json
+yarn.lock
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Documentation builds
+docs/_build/
+site/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Environments
+.env.development
+.env.staging
+.env.production
+
+# Local SSL certificates
+*.pem
+*.key
+*.crt
+*.csr
+
+# AI Model files (large)
+*.pkl
+*.h5
+*.hdf5
+*.model
