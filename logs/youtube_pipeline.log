@@ -1,0 +1,44 @@
+2025-07-09 01:59:27,391 [INFO] utils.helpers: Logging setup complete - Level: INFO, File: logs/youtube_pipeline.log
+2025-07-09 01:59:27,391 [INFO] __main__: 🚀 Initializing YouTube Clip Pipeline
+2025-07-09 01:59:27,391 [INFO] utils.helpers: Created directories: downloads, clips, config, logs, finished_clips
+2025-07-09 01:59:27,394 [INFO] utils.helpers: Configuration loaded from config/pipeline.yaml
+2025-07-09 01:59:27,394 [INFO] __main__: 🔍 Checking system requirements...
+2025-07-09 01:59:27,779 [INFO] utils.helpers: All dependencies available
+2025-07-09 01:59:27,790 [INFO] __main__: 💻 System: Linux-6.8.0-1024-aws-x86_64-with-glibc2.41
+2025-07-09 01:59:27,791 [INFO] __main__: 🐍 Python: 3.13.3
+2025-07-09 01:59:27,791 [INFO] __main__: 💾 Memory: 28.0 GB available
+2025-07-09 01:59:27,791 [INFO] __main__: 💽 Disk: 474.8 GB free
+2025-07-09 01:59:27,791 [INFO] __main__: ✅ System requirements check complete
+2025-07-09 01:59:27,791 [INFO] mcp_servers.mcp_framework: Registered MCP server: YouTubeMonitor
+2025-07-09 01:59:27,791 [INFO] mcp_servers.mcp_framework: Registered MCP server: VideoProcessor
+2025-07-09 01:59:27,791 [INFO] mcp_servers.mcp_framework: Registered MCP server: UploadManager
+2025-07-09 01:59:27,791 [INFO] __main__: ✅ Pipeline initialization complete
+2025-07-09 01:59:27,791 [INFO] __main__: 🎬 Starting YouTube Clip Pipeline
+2025-07-09 01:59:27,792 [INFO] mcp_servers.mcp_framework: Starting MCP Coordinator
+2025-07-09 01:59:27,792 [INFO] mcp_servers.mcp_framework: Started MCP server: YouTubeMonitor
+2025-07-09 01:59:27,792 [INFO] mcp_servers.mcp_framework: Started MCP server: VideoProcessor
+2025-07-09 01:59:27,792 [INFO] mcp_servers.video_processor: Loading Whisper model: medium
+2025-07-09 01:59:49,733 [INFO] mcp_servers.video_processor: Whisper model loaded successfully
+2025-07-09 01:59:49,734 [INFO] mcp_servers.video_processor: Started 3 processing workers
+2025-07-09 01:59:49,734 [INFO] mcp_servers.mcp_framework: Started MCP server: UploadManager
+2025-07-09 01:59:49,734 [INFO] mcp_servers.upload_manager: Upload manager started
+2025-07-09 01:59:49,734 [INFO] mcp_servers.mcp_framework: All MCP servers started
+2025-07-09 01:59:49,734 [INFO] mcp_servers.youtube_monitor: Starting YouTube monitoring for channels: UCddg_live
+2025-07-09 01:59:49,734 [INFO] __main__: 🎯 Pipeline started successfully!
+2025-07-09 01:59:49,734 [INFO] __main__: 📺 Monitoring YouTube channels...
+2025-07-09 01:59:49,734 [INFO] __main__: 📋 Configuration Summary:
+2025-07-09 01:59:49,734 [INFO] __main__:    📺 Channels: ['UCddg_live']
+2025-07-09 01:59:49,734 [INFO] __main__:    ⏱️  Check Interval: 5 minutes
+2025-07-09 01:59:49,734 [INFO] __main__:    🎞️  Clip Duration: 60 seconds
+2025-07-09 01:59:49,734 [INFO] __main__:    📤 Delivery Method: local
+2025-07-09 01:59:49,735 [INFO] __main__:    🤖 Whisper Model: medium
+2025-07-09 01:59:49,735 [INFO] __main__:    🔍 Keywords: breaking, news, live...
+2025-07-09 01:59:49,735 [INFO] mcp_servers.video_processor: Started processing worker: worker-0
+2025-07-09 01:59:49,735 [INFO] mcp_servers.video_processor: Started processing worker: worker-1
+2025-07-09 01:59:49,735 [INFO] mcp_servers.video_processor: Started processing worker: worker-2
+2025-07-09 01:59:49,735 [INFO] mcp_servers.upload_manager: Started upload worker
+2025-07-09 01:59:49,735 [INFO] mcp_servers.youtube_monitor: Checking for new videos...
+2025-07-09 01:59:51,007 [INFO] __main__: 📊 Pipeline Status:
+2025-07-09 01:59:51,007 [INFO] __main__:    📺 Monitor: 🟢 (0 videos tracked)
+2025-07-09 01:59:51,007 [INFO] __main__:    🎬 Processor: 🟢 (0 queued, 3 workers)
+2025-07-09 01:59:51,008 [INFO] __main__:    📤 Uploader: 🟢 (0 queued, method: local)

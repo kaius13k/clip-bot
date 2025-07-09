@@ -7,7 +7,7 @@ import os
 import asyncio
 import logging
 import whisper
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 from typing import Dict, Any, List, Optional
 from datetime import datetime
 from .mcp_framework import AutoMCPServer, expose

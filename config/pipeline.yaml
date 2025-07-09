@@ -1,0 +1,61 @@
+# YouTube Clip Pipeline Configuration
+# Basic configuration for automated YouTube monitoring and clip generation
+
+youtube_automation:
+  check_interval_minutes: 5
+  max_videos_per_check: 10
+  keywords:
+    - "breaking"
+    - "news" 
+    - "live"
+    - "update"
+    - "announcement"
+    - "highlights"
+  channels:
+    - "UCddg_live"  # Example channel ID - replace with actual channel IDs
+
+clipping_service:
+  service_type: "ffmpeg"
+  default_clip_duration: 60    # 60 seconds
+  max_clip_duration: 300       # 5 minutes
+  output_quality: "1080p"
+  whisper_model: "medium"      # tiny, base, small, medium, large
+
+clip_page:
+  delivery_method: "local"     # local, youtube, drive, api
+  local:
+    directory: "./finished_clips"
+    organize_by_date: true
+
+processing:
+  max_concurrent_clips: 3
+  max_daily_clips: 50
+  min_video_duration: 30       # seconds
+  max_video_duration: 3600     # 1 hour
+  min_view_count: 1000
+  max_storage_gb: 10
+
+ai_settings:
+  use_engagement_scoring: true
+  analyze_transcripts: true
+  keyword_boost: true
+  confidence_threshold: 0.8
+
+paths:
+  downloads: "./downloads"
+  clips: "./clips"
+  logs: "./logs"
+  credentials: "./config/credentials.json"
+
+logging:
+  level: "INFO"
+  file: "./logs/pipeline.log"
+  max_size_mb: 10
+  backup_count: 5
+
+# Advanced settings (optional)
+advanced:
+  cleanup_after_upload: true
+  retry_attempts: 3
+  retry_delay: 5
+  chunk_size: 1048576         # 1MB chunks

@@ -1,0 +1,36 @@
+# Core YouTube Pipeline Dependencies
+yt-dlp>=2023.11.16
+openai-whisper>=20231117
+moviepy>=1.0.3
+google-api-python-client>=2.108.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+ffmpeg-python>=0.2.0
+
+# Essential AI/ML Dependencies
+torch>=2.0.0
+transformers>=4.35.0
+numpy>=1.24.3
+
+# Core web framework dependencies (without problematic packages)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+requests>=2.31.0
+python-multipart>=0.0.6
+aiofiles>=23.2.0
+
+# Utility Dependencies
+python-dotenv>=1.0.0
+schedule==1.2.0
+psutil==5.9.6
+beautifulsoup4==4.12.2
+pandas>=2.1.3
+matplotlib>=3.8.2
+streamlit>=1.28.1
+
+# Skip these for now due to Python 3.13 compatibility issues:
+# pydantic==2.5.0  # Build issues with pydantic-core
+# tiktoken==0.5.1  # Rust build issues
+# openai==1.3.5    # Depends on pydantic
+# anthropic==0.7.7 # Depends on pydantic
+# chromadb==0.4.18 # Has complex dependencies
